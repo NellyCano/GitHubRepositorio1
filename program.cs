@@ -1,6 +1,6 @@
 Using System.Collections;
 // definición e inicialización de los arreglos en paralelo y diccionario.
-int[] población={185013,197119,439906,190863,530586,414543,229866,214317,475630,421050,174744,1,546,939,391903,593503,271581,135446,182645};
+int[] población={185013,197119,439906,190863,530586,414543,229866,214317,475630,421050,174744,1546939,391903,593503,271581,135446,182645};
 string[] Departamento ={"Boaco", "Carazo"," Chinanadega","Chontales","Costa caribe Norte","Costa Caribe Sur","Esteli,"" Granada","Jinotega","León","Madriz"," Managua","Masaya","Matagalpa","Nueva Segovia"};
 Dictionary<string,int>diccionario=Departamento
   .Zip(población,(K,V)=>new{clave=K,valor=V})
