@@ -8,3 +8,6 @@ ColectDictionary/obj/Debug/**/*.*.*
 
 # Archivos de metadata de Unity
 *.meta 
+bin/
+obj/
+
