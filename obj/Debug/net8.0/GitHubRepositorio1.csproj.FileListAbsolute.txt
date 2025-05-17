@@ -1,5 +1,0 @@
-C:\Users\nelly\GitHubRepositorio1\obj\Debug\net8.0\GitHubRepositorio1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\nelly\GitHubRepositorio1\obj\Debug\net8.0\GitHubRepositorio1.AssemblyInfoInputs.cache
-C:\Users\nelly\GitHubRepositorio1\obj\Debug\net8.0\GitHubRepositorio1.AssemblyInfo.cs
-C:\Users\nelly\GitHubRepositorio1\obj\Debug\net8.0\GitHubRepositorio1.csproj.CoreCompileInputs.cache
-C:\Users\nelly\GitHubRepositorio1\obj\Debug\net8.0\GitHubRepositorio1.sourcelink.json
